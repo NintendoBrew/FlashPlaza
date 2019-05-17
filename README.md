@@ -1,3 +1,3 @@
 # FlashPlaza
 http://nintendobrew.com/FlashPlaza/
-Moved to flashplaza.ml
+Moved to www.flashplaza.ml
