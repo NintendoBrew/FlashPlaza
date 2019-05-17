@@ -1,4 +1,4 @@
 # FlashPlaza
 http://nintendobrew.com/FlashPlaza/
 
-#Old site use www.flashplaza.ml
+# Old site use www.flashplaza.ml
